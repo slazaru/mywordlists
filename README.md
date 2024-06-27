@@ -1,0 +1,2 @@
+# mywordlists
+wordlists for pentesting
